@@ -18,5 +18,9 @@ public class TestaCaracteres {
 		palavra = palavra + 2020;
 		System.out.println(palavra);
 		
+		String parcela1 = "10";
+		String parcela2 = "20";
+
+		System.out.println(parcela1 + parcela2);
 	}
 }
